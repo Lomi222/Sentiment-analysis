@@ -553,7 +553,7 @@ plt.show()
 ```
 
 
-![png](output_33_0.png)
+![png](Image/output_33_0.png)
 
 
 3.模型介绍
