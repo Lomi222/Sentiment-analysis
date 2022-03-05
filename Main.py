@@ -485,28 +485,4 @@ for idx, text in enumerate(data):
     print('Data: {} \t Lable: {}'.format(text[0], results[idx]))
 
 
-# 6.总结与升华
-# ===
 
-# <font size="3"> 最后我们通过模型训练所记录下来的Log，运用VisualDL，绘制了模型训练的Loss和Accuracy的趋势图。</font>
-
-# ![](https://ai-studio-static-online.cdn.bcebos.com/40e6087cd95f4e8f974bfe1c870d48f1e079383d45c44090b1ebdd7febf90635)
-# 
-
-# ![](https://ai-studio-static-online.cdn.bcebos.com/6984e57bd8514f94b9d5bb6baaa991984f36ea55f54644ff91612a64996a25dd)
-# 
-
-# <font size="3"> 从图中我们可以看到，整个模型的准确率随训练轮数的变化，整个模型训练在前期就已经收敛了，后期的准确率都是高于0.9的，模型收敛速度较快，可能是因为数据量不是特别大的缘故。</font>
-
-# <font size="3"> 这是我第一次使用paddlepaddle,也是我第一次接触深度学习，跟着课程走学到了很多新的知识，磕磕绊绊的把项目完成了。由于是新手，所以选择的数据集也是比较简单的数据集，希望以后能做的更好。  
-#   最后提一点不成熟的小建议，希望官方能完善Paddlehub和VisualDL的相关文档，现有的文档对新手来说可能没有那么友好，使用起来没有那么容易。
-# </font>
-
-# 7.个人总结
-# ==
-
-# <font size="3">作者：洛米。  
-# 研二，一个深度学习的小白，希望能和大家共同学习，一起进步。  
-#   
-# [个人主页](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/2012606)   
-# </font>
