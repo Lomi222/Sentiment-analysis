@@ -1,4 +1,4 @@
-# Sentiment-analysis
+# 【AI达人创造营第二期】百度飞桨情感极性检测
 Sentiment analysis
 
 
